@@ -11,7 +11,7 @@ import com.ai.runner.center.bmc.core.util.BmcException;
 import com.ai.runner.center.bmc.core.util.CacheClient;
 import com.ai.runner.center.bmc.core.util.RecordUtil;
 
-public class BlUserInfo {
+public class BlUserInfo  {
 
 	private static Logger logger = LoggerFactory.getLogger(BlUserInfo.class);
 	private CacheClient cacheClient = CacheClient.getInstance();
